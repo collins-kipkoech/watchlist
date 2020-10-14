@@ -1,1 +1,3 @@
-*.pcy
+virtual/
+*.pyc
+app/instance
